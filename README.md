@@ -10,7 +10,7 @@ Es un proyecto que tiene el fin de practicar
 - Interfaz simple e interactiva.
 
 ## 📸 Vista previa
-![Demo](assets\funcionalidad.gif)  
+![Demo](assets/funcionalidad.gif)  
 
 ## 🛠️ Tecnologías utilizadas
 - **HTML** → Estructura de la página.
